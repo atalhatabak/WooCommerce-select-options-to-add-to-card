@@ -5,7 +5,7 @@ Usage
 
 Download the add-to-cart.php file and change with wp-content/plugins/woocommerce/templates/loop/add-to-cart.php
 
-    This code takes the default variation of the product with variation and shows this product as a simple product.
+This code takes the default variation of the product with variation and shows this product as a simple product.
     
 Note: you have to choose default variation
 
