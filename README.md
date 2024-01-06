@@ -31,4 +31,5 @@ After the change it should look like this
 		return apply_filters( 'woocommerce_product_add_to_cart_text', $this->is_purchasable() ? __( 'Add to cart', 'woocommerce' ) : __( 'Read more', 'woocommerce' ), $this );
   
 	}
+
  
