@@ -1,4 +1,6 @@
 # WooCommerce-select-options-to-add-to-card
+> in 2025 still work
+
 "Add to cart" feature in loop for products with WooCommerce variations products
 
 Usage
